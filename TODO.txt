@@ -1,0 +1,4 @@
+1. What is gid, uid? -- Group ID, User ID
+2. struct group, passwd? What's that?
+3. In MacOS, the root of a project is the bin folder;
+   In Debian, it is in the the project's folder;
